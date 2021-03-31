@@ -1,0 +1,48 @@
+{
+  "entity.big_rat.ambient": {
+    "sounds": [
+      "bigrat:entity/big_rat/ambient"
+    ],
+    "subtitle": "subtitles.entity.bigrat.big_rat.ambient"
+  },
+  "entity.big_rat.ambient_baby": {
+    "sounds": [
+      {
+        "name": "bigrat:entity/big_rat/ambient",
+        "pitch": 1.5
+      }
+    ],
+    "subtitle": "subtitles.entity.bigrat.big_rat.ambient_baby"
+  },
+  "entity.big_rat.death": {
+    "sounds": [
+      "bigrat:entity/big_rat/death"
+    ],
+    "subtitle": "subtitles.entity.bigrat.big_rat.death"
+  },
+  "entity.big_rat.hurt": {
+    "sounds": [
+      "bigrat:entity/big_rat/hurt"
+    ],
+    "subtitle": "subtitles.entity.bigrat.big_rat.hurt"
+  },
+  "entity.big_rat.step": {
+    "sounds": [
+      "mob/polarbear/step1",
+      "mob/polarbear/step2",
+      "mob/polarbear/step3",
+      "mob/polarbear/step4"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "entity.big_rat.warning": {
+    "sounds": [
+      {
+        "name": "bigrat:entity/big_rat/warning",
+        "pitch": 0.9
+      },
+      "bigrat:entity/big_rat/warning"
+    ],
+    "subtitle": "subtitles.entity.bigrat.big_rat.warning"
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "mod.bigrat.name": "BigRat",
+    "mod.bigrat.description": "BIG RAT",
+
+    "entity.bigrat.big_rat": "Big Rat",
+    "item.bigrat.big_rat_spawn_egg": "Big Rat Spawn Egg",
+
+    "subtitles.entity.bigrat.big_rat.ambient": "Big Rat groans",
+    "subtitles.entity.bigrat.big_rat.ambient_baby": "Big Rat hums",
+    "subtitles.entity.bigrat.big_rat.death": "Big Rat dies",
+    "subtitles.entity.bigrat.big_rat.hurt": "Big Rat hurts",
+    "subtitles.entity.bigrat.big_rat.warning": "Big Rat roars"
+}

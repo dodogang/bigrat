@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "license": "MIT",
+  "id": "bigrat",
+  "version": "${version}",
+
+  "name": "Big Rat",
+  "description": "BIG RAT",
+  "icon": "pack.png",
+
+  "authors": [
+    "Dodo Gang"
+  ],
+  "contributors": [],
+  "contact": {
+    "sources": "https://github.com/dodogang/bigrat",
+    "issues": "https://github.com/dodogang/bigrat/issues"
+  },
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.dodogang.bigrat.BigRat"
+    ],
+    "client": [
+      "net.dodogang.bigrat.BigRatClient"
+    ],
+    "server": []
+  },
+  "depends": {
+    "fabricloader": ">=0.10.5",
+    "fabric": ">=0.32.0",
+    "minecraft": ">=1.16.2"
+  }
+}
