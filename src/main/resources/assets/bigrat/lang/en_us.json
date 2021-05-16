@@ -1,7 +1,9 @@
 {
     "mod.bigrat.name": "BigRat",
     "mod.bigrat.description": "BIG RAT",
-
+    
+    "itemGroup.bigrat.item_group": "Big Rat",
+    
     "entity.bigrat.big_rat": "Big Rat",
     "item.bigrat.big_rat_spawn_egg": "Big Rat Spawn Egg",
 
